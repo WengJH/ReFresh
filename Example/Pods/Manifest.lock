@@ -1,0 +1,16 @@
+PODS:
+  - ReFresh (0.1.1)
+
+DEPENDENCIES:
+  - ReFresh (from `../`)
+
+EXTERNAL SOURCES:
+  ReFresh:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ReFresh: cf5f404b54c376f4c5566f32c5b33a76bd81c46d
+
+PODFILE CHECKSUM: 57e749632993a03ef9d6e1e8216f68f8ab5bf4b1
+
+COCOAPODS: 1.7.2

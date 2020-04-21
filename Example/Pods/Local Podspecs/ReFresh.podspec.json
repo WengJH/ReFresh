@@ -1,0 +1,22 @@
+{
+  "name": "ReFresh",
+  "version": "0.1.1",
+  "summary": "刷芯测温贴SDK",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/582829984@qq.com/ReFresh",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "582829984@qq.com": "582829984@qq.com\u0001\u0001\u0001\u0001\u0001\u0001"
+  },
+  "source": {
+    "git": "https://github.com/582829984@qq.com/ReFresh.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ReFresh/Classes/**/*"
+}

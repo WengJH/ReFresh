@@ -1,0 +1,6 @@
+framework module Pods_ReFresh_Tests {
+  umbrella header "Pods-ReFresh_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
